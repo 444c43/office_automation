@@ -1,5 +1,7 @@
 Option Explicit
 
+' source: https://www.robvanderwoude.com/vbstech_ui_selectfolder.php
+
 Dim OriginDirectory, DestinationDirectory
 Dim FileToMerge
 Dim DocumentsPath
